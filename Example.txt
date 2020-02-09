@@ -1,4 +1,0 @@
-John	Doe	1976-08-01
-Jane	Doe	1954-05-07
-Dean	Windchester	1979-01-24
-Sam	Windchester	1983-04-02
