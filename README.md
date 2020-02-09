@@ -5,7 +5,7 @@ I recently finished a project that allows you to take data from an excel and cre
 ***
 Copy Excel data to notepad and save.
 
-![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Example/Example%20-%20Step%201.png)
+![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Examples/Example%20-%20Step%201.png)
 
 ***
 
@@ -13,7 +13,7 @@ Copy Excel data to notepad and save.
 ***
 Select Browse and navigate to text file from step 1.
 
-![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Example/Example%20-%20Step%202.png)
+![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Examples/Example%20-%20Step%202.png)
 
 ***
 
@@ -23,7 +23,7 @@ Copy the below query into the editor. Select Okay and choose file name and selec
 
 **_Insert Into Customer (f_name, l_name, dob) Values ('@p1', '@p2', '@p3')_**
 
-![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Example/Example%20-%20Step%203.png)
+![](https://github.com/Theguy82489/Multi-Query-Creator/blob/master/Examples/Example%20-%20Step%203.png)
 
 ***
 
